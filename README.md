@@ -35,6 +35,11 @@ In this repository, I’ll walk you through my week-by-week journey during the i
 - Trained the model on a dataset of painting images and corresponding descriptions.
 - Fine-tuned the model parameters to improve accuracy and coherence of generated descriptions.
 
+**<h3><b>Output: </b></h3>**
+
+![image](https://github.com/harshm2601/summerintership2024_22AIML019/assets/165890506/64fb6eea-2488-4d86-a46b-9f7a3006b03e)
+![image](https://github.com/harshm2601/summerintership2024_22AIML019/assets/165890506/3361b7f9-4c5c-4d99-9743-70f0326d4d05)
+
 ### Week 3: Show User How a Painting Will Look on Different Walls
 
 **Learning and Exploration:**
@@ -45,6 +50,11 @@ In this repository, I’ll walk you through my week-by-week journey during the i
 - Developed a function to detect and extract wall regions from user-uploaded photos.
 - Implemented the perspective transformation to fit the painting onto the wall.
 - Added options for users to adjust the size and position of the painting on the wall.
+
+**<h3><b>Output: </b></h3>**
+
+<img src="https://github.com/harshm2601/summerintership2024_22AIML019/assets/165890506/740ea3cb-12f2-4120-8f2e-4e5bae6c9e6e" alt="Screenshot 2024-06-04 105313" width="350" height="250">
+
 
 ### Week 4: Attendance and Fraud Management System
 
@@ -78,6 +88,10 @@ In this repository, I’ll walk you through my week-by-week journey during the i
 - Refined the face recognition and anti-spoofing algorithms for better accuracy.
 - Improved the user interface for the attendance system.
 - Conducted final testing and validation to ensure the system's reliability and robustness.
+
+**<h3><b>Output: </b></h3>**
+  ![image](https://github.com/harshm2601/summerintership2024_22AIML019/assets/165890506/32a9485b-6948-493c-8340-8578aa799ad9)
+
 
 ## 🌟 Summary
 
